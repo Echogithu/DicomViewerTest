@@ -20,6 +20,8 @@
     "dcmjs": "0.19.2",
     "dicomweb-client": "0.8.4",
     "hammerjs": "^2.0.8",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.0",
     "react": "^18.2.0",
     "react-cornerstone-viewport": "^4.1.5",
     "react-dom": "^18.2.0",

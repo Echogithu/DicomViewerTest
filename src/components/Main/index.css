@@ -1,0 +1,20 @@
+/* body {
+  padding: 0;
+  margin: 0;
+} */
+.Main {
+  width: 100%;
+  height: 100vh;
+}
+.layoutGrid {
+  display: grid;
+  width: 100%;
+  height: 100%;
+}
+.layoutGridItem {
+  color: #fff;
+  border: 1px solid #444;
+}
+.layoutGridItem.active {
+  border: 1px solid blue;
+}
